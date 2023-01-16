@@ -1,19 +1,5 @@
 # Souborn-pr-ce
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 fun main(args: Array<String>) {
     println("Zvolte operaci")
  println("1. Seřadit hory podle abecedy vzestupně ")
