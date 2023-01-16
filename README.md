@@ -1,8 +1,8 @@
 # Souborn-pr-ce
 
-fun main(args: Array<String>) {
+     fun main(args: Array<String>) {
     println("Zvolte operaci")
- println("1. Seřadit hory podle abecedy vzestupně ")
+    println("1. Seřadit hory podle abecedy vzestupně ")
     println("2. Seřadit hory podle abecedy sestupně")
     println("3. Seřadit hory podle výšky vzestupně ")
     println("4. Seřadit hory podle výšky sestupně ")
